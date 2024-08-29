@@ -1,0 +1,36 @@
+{
+  "Records": [
+    {
+      "messageId": "",
+      "receiptHandle": "",
+      "body": "Test message One.",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "",
+        "SenderId": "",
+        "ApproximateFirstReceiveTimestamp": ""
+      },
+      "messageAttributes": {},
+      "md5OfBody": "",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "",
+      "awsRegion": ""
+    },
+    {
+      "messageId": "",
+      "receiptHandle": "",
+      "body": "Test message Three.",
+      "attributes": {
+        "ApproximateReceiveCount": "11",
+        "SentTimestamp": "",
+        "SenderId": "",
+        "ApproximateFirstReceiveTimestamp": ""
+      },
+      "messageAttributes": {},
+      "md5OfBody": "",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "",
+      "awsRegion": ""
+    }
+  ]
+}
